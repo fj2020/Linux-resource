@@ -1,4 +1,4 @@
-### 阿里Linux镜像仓库
+### 阿里云Linux镜像仓库
 
     https://mirrors.aliyun.com/centos/
     
