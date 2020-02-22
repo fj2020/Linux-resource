@@ -21,13 +21,13 @@ CentOS7.0下载：
 
     64位 https://mirrors.aliyun.com/centos/6.10/isos/x86_64/CentOS-6.10-x86_64-bin-DVD1.iso
 
-### centos6.5
+### Centos6.5
 
     64位下载地址：http://pan.baidu.com/s/1sl5r02T
 
     32位下载地址：http://pan.baidu.com/s/1b4QoKe
 
-### centos老版本下载地址：
+### Centos老版本下载地址：
 
     http://vault.centos.org/
 
