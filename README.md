@@ -2,7 +2,7 @@
 
     https://mirrors.aliyun.com/centos/
     
-### CentOS7.6下载地址：
+### CentOS 7.6下载地址：
 
     64位  http://mirrors.sohu.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
 
@@ -10,18 +10,18 @@
     
     32位[如果你能安装64位，请不要下载此版本，很多问题]  http://mirror.centos.org/altarch/7.4.1708/isos/i386/CentOS-7-i386-DVD-1708.iso （安装此镜像，需要创建64位的centos虚拟机）
     
-CentOS7.0下载：
+### CentOS 7.0下载：
     
     64位 http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
 
 
-### CentOS6.10下载地址:
+### CentOS 6.10下载地址:
     
     32位 https://mirrors.aliyun.com/centos/6.10/isos/i386/CentOS-6.10-i386-bin-DVD1.iso
 
     64位 https://mirrors.aliyun.com/centos/6.10/isos/x86_64/CentOS-6.10-x86_64-bin-DVD1.iso
 
-### Centos6.5
+### CentOS 6.5
 
     64位下载地址：http://pan.baidu.com/s/1sl5r02T
 
