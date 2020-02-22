@@ -1,6 +1,6 @@
-### 访问google
+### 阿里Linux镜像仓库
 
-    http://coderschool.cn/1853.html
+    https://mirrors.aliyun.com/centos/
     
 ### CentOS7.6下载地址：
 
